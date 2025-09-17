@@ -20,24 +20,7 @@
 
 ---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://zalo.me/0372594819" target="blank">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/phan-ng%E1%BB%8Dc-qu%E1%BB%91c-v%C4%83n-280940301/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/van.vui.ve.995608/" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/van_vui_ve84/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@vanvuive2222" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
@@ -89,3 +72,22 @@
   ![snake gif](https://github.com/PhanNgocQuocVan/PhanNgocQuocVan/blob/output/github-snake-dark.svg)
 
 </div>
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://zalo.me/0372594819" target="blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/phan-ng%E1%BB%8Dc-qu%E1%BB%91c-v%C4%83n-280940301/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/van.vui.ve.995608/" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/van_vui_ve84/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@vanvuive2222" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
