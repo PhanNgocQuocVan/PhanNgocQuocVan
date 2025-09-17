@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phan Ngọc Quốc Văn</h1>
-<h3 align="center">A frontend software engineer from Vietnam, skilled in building modern web apps with React ⚛️</h3>
+<h3 align="center">A frontend software engineer from Vietnam 🇻🇳, skilled in building modern web apps with React ⚛️</h3>
 
 ---
 
@@ -11,9 +11,9 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools  
 
-<p align="left">
+<p align="center">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -22,14 +22,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="tanstack" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-
+  
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-
+  
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -42,25 +42,19 @@
   <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="wordpress" width="40" height="40"/>
 </p>
 
+---
 
-### 🚀 Projects
+### 🚀 Projects  
 
 <p align="center">
-  💻 I have built this project before 👉 <a href="https://clone-pinterest-wheat.vercel.app">Pinterest Clone</a> <br/>
-  🎼 I have built this project before 👉 <a href="https://phanngocquocvan.github.io/app-music/">Music App (Mobile UI)</a>
+  💻 <a href="https://clone-pinterest-wheat.vercel.app">Pinterest Clone</a> <br/>
+  🎼 <a href="https://phanngocquocvan.github.io/app-music/">Music App (Mobile UI)</a>
 </p>
 
 ---
 
+### 📊 GitHub Stats  
 
-
----
-
-
-
----
-
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phanngocquocvan&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
@@ -75,7 +69,10 @@
 
 </div>
 
-### 🌐 Connect with me
+---
+
+### 🌐 Connect with me  
+
 <p align="center">
   <a href="https://zalo.me/0372594819" target="blank">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
