@@ -84,3 +84,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phanngocquocvan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
+<div align="center">
+
+  ![snake gif](https://github.com/PhanNgocQuocVan/PhanNgocQuocVan/blob/output/github-snake-dark.svg)
+
+</div>
