@@ -11,19 +11,6 @@
 
 ---
 
-### 🚀 Projects
-
-<p align="center">
-  💻 I have built this project before 👉 <a href="https://clone-pinterest-wheat.vercel.app">Pinterest Clone</a> <br/>
-  🎼 I have built this project before 👉 <a href="https://phanngocquocvan.github.io/app-music/">Music App (Mobile UI)</a>
-</p>
-
----
-
-
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -54,6 +41,21 @@
   <img src="https://prettier.io/icon.png" alt="prettier" width="40" height="40"/>
   <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="wordpress" width="40" height="40"/>
 </p>
+
+
+### 🚀 Projects
+
+<p align="center">
+  💻 I have built this project before 👉 <a href="https://clone-pinterest-wheat.vercel.app">Pinterest Clone</a> <br/>
+  🎼 I have built this project before 👉 <a href="https://phanngocquocvan.github.io/app-music/">Music App (Mobile UI)</a>
+</p>
+
+---
+
+
+
+---
+
 
 
 ---
