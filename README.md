@@ -1,92 +1,119 @@
-<h1 align="center">Hi 👋, I'm Phan Ngọc Quốc Văn</h1>
-<h3 align="center">A frontend software engineer from Vietnam 🇻🇳, skilled in building modern web apps with React ⚛️</h3>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phanngocquocvan&theme=onedark&margin-w=15&margin-h=15" alt="phanngocquocvan" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools  
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="tanstack" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-  
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
-  <img src="https://prettier.io/icon.png" alt="prettier" width="40" height="40"/>
-  <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="wordpress" width="40" height="40"/>
-</p>
-
----
-
-### 🚀 Projects  
-
-<p align="center">
-  💻 <a href="https://clone-pinterest-wheat.vercel.app">Pinterest Clone</a> <br/>
-  🎼 <a href="https://phanngocquocvan.github.io/app-music/">Music App (Mobile UI)</a>
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phanngocquocvan&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phanngocquocvan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
 <div align="center">
 
-  ![snake gif](https://github.com/PhanNgocQuocVan/PhanNgocQuocVan/blob/output/github-snake-dark.svg)
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phan%20Ngọc%20Quốc%20Văn&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Software%20Engineer%20%7C%20Vietnam%20🇻🇳&descAlignY=58&descSize=16&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps+with+React+⚛️;Frontend+Engineer+%7C+TypeScript+%7C+Tailwind;Clean+Code+%7C+Great+UX+%7C+Always+Learning" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=phanngocquocvan&style=for-the-badge&color=0075ff&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/phanngocquocvan?style=for-the-badge&color=0075ff&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-### 🌐 Connect with me  
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://zalo.me/0372594819" target="blank">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phanngocquocvan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="trophies" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+</div>
+
+### ⚙️ Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,mongodb,supabase&theme=dark" />
+</div>
+
+### 🧰 Tools & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,webpack,babel,eslint,postman,wordpress&theme=dark" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Link |
+|:-------:|:-----------:|:----:|
+| 🖼️ **Pinterest Clone** | Full UI clone with responsive masonry layout | [Live Demo](https://clone-pinterest-wheat.vercel.app) |
+| 🎵 **Music App** | Mobile-first music player UI | [Live Demo](https://phanngocquocvan.github.io/app-music/) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phanngocquocvan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="180" alt="stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phanngocquocvan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanngocquocvan&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanngocquocvan&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/PhanNgocQuocVan/PhanNgocQuocVan/blob/output/github-snake-dark.svg" alt="snake" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://zalo.me/0372594819" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/phan-ng%E1%BB%8Dc-qu%E1%BB%91c-v%C4%83n-280940301/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/phan-ng%E1%BB%8Dc-qu%E1%BB%91c-v%C4%83n-280940301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/van.vui.ve.995608/" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.facebook.com/van.vui.ve.995608/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/van_vui_ve84/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.instagram.com/van_vui_ve84/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@vanvuive2222" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.youtube.com/@vanvuive2222" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
